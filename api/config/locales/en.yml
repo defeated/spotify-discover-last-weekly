@@ -1,0 +1,7 @@
+en:
+  auth:
+    sessions:
+      create:
+        notice: "successfully logged in"
+      destroy:
+        notice: "successfully logged out"
